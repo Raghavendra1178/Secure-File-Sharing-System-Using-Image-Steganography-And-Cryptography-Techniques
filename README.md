@@ -12,7 +12,7 @@ can then download the encoded image. In the decoding section the user
 can input the decoded image and the decrypted text information is 
 displayed to the user in a new file.
 
-Algorithms Used:
+Algorithms Used:<br>
 Steganography-Least Significant Bit
 
 ## Refer to the Report File for the Implementation and the Explanation of the Algorithms used
